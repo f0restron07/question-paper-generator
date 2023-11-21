@@ -1,0 +1,14 @@
+Question Paper
+
+Question: What is the speed of light? (Marks: 5)
+Question: What is the capital of France? (Marks: 5)
+Question: Define the term 'biodiversity.' (Marks: 5)
+Question: What is the Pythagorean theorem? (Marks: 5)
+Question: What is Newton's second law? (Marks: 10)
+Question: Explain the process of photosynthesis. (Marks: 10)
+Question: What is the result of x^2? (Marks: 10)
+Question: Explain the significance of the Magna Carta. (Marks: 15)
+Question: Explain Newton's law of universal gravitation. (Marks: 15)
+Question: Explain the structure of DNA. (Marks: 15)
+
+Total Marks: 95
